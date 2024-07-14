@@ -1,0 +1,130 @@
+{
+  "project_info": {
+    "project_number": "879784588878",
+    "project_id": "explore-places-e002e",
+    "storage_bucket": "explore-places-e002e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:879784588878:android:d53307586e0dc9cd89b51f",
+        "android_client_info": {
+          "package_name": "com.mighty.explore_places"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "879784588878-8h1vfol04m7mf3oss4rs24feb0e674ts.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mighty.explore_places",
+            "certificate_hash": "39201fd9de1b720d2c1ce9b2a7d0702083addf31"
+          }
+        },
+        {
+          "client_id": "879784588878-jahfc4ak4ckkm1vnak5cme14ho36env4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mighty.explore_places",
+            "certificate_hash": "0205b17ca7b983dc7dea919812dab73bf6756e36"
+          }
+        },
+        {
+          "client_id": "879784588878-l5kkdj2h2vdihe4j58s2h3n033k3b1d5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mighty.explore_places",
+            "certificate_hash": "bc3e94e35a779248c34b9d8d509287ea3623f8fa"
+          }
+        },
+        {
+          "client_id": "879784588878-ln6lu9flptust9796a39teml13msi75n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDoDSZfDylSVDejpR_HqlwMcqlBcNCK1CY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "879784588878-ln6lu9flptust9796a39teml13msi75n.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "879784588878-ao2s12567pkepvicvm4obipi9ps9ren7.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.mighty.exploreplaces"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:879784588878:android:bc1c42c5a432a35789b51f",
+        "android_client_info": {
+          "package_name": "com.mighty.exploreplaces"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "879784588878-062iq4psg5odfcvaa2l2igdclg9j4t2h.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mighty.exploreplaces",
+            "certificate_hash": "0205b17ca7b983dc7dea919812dab73bf6756e36"
+          }
+        },
+        {
+          "client_id": "879784588878-73kjghtitsa5tr4pvfneokfepggn2bfg.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mighty.exploreplaces",
+            "certificate_hash": "bc3e94e35a779248c34b9d8d509287ea3623f8fa"
+          }
+        },
+        {
+          "client_id": "879784588878-ck24fck30g4ucfcce5uqn9vafik7m11l.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mighty.exploreplaces",
+            "certificate_hash": "39201fd9de1b720d2c1ce9b2a7d0702083addf31"
+          }
+        },
+        {
+          "client_id": "879784588878-ln6lu9flptust9796a39teml13msi75n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDoDSZfDylSVDejpR_HqlwMcqlBcNCK1CY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "879784588878-ln6lu9flptust9796a39teml13msi75n.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "879784588878-ao2s12567pkepvicvm4obipi9ps9ren7.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.mighty.exploreplaces"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,96 @@
+name: explore_places
+description: A new Flutter project.
+
+publish_to: 'none'
+
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.17.3 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  # UI
+  cupertino_icons: ^1.0.5
+  google_fonts: ^3.0.1
+  flutter_rating_bar: ^4.0.1
+  carousel_slider: ^4.1.1
+  flutter_staggered_grid_view: ^0.6.2
+  flutter_staggered_animations: ^1.1.1
+
+  # CONNECTIVITY
+  http: ^0.13.5
+  connectivity_plus: ^2.3.7
+  cached_network_image: ^3.2.2
+  html: ^0.15.0
+  package_info_plus: ^1.4.0
+  flutter_html: ^2.2.1
+
+  # FIREBASE
+  firebase_core: ^1.23.0
+  firebase_auth: ^3.10.0
+  cloud_firestore: ^3.4.9
+  firebase_storage: ^10.3.9
+  firebase_crashlytics: ^2.8.11
+  google_sign_in: ^5.4.2
+  the_apple_sign_in: ^1.1.1
+
+  #ICON
+  flutter_vector_icons: ^2.0.0
+
+  # LAUNCH URL
+  url_launcher: ^6.1.5
+
+  #Database
+  shared_preferences: ^2.0.15
+
+  # BASE
+  fluttertoast: ^8.0.9
+
+  # GOOGLE MAP
+  maps_launcher: ^2.0.1
+  geolocator: ^9.0.2
+  google_maps_flutter: ^2.2.0
+  google_maps_place_picker_mb: ^2.0.0-mb.22
+
+  # ASSETS
+  image_picker: ^0.8.5+3
+  lottie: ^1.4.3
+
+  # ONESIGNAL NOTIFICATION
+  onesignal_flutter: ^3.4.1
+
+  # STATE MANAGEMENT
+  mobx: ^2.1.0
+  flutter_mobx: ^2.0.6+4
+
+  # ADS
+  google_mobile_ads:
+    git:
+      url: https://github.com/googleads/googleads-mobile-flutter
+      ref: 356875362ddb2ac2e0056385d2729c093722fb8d
+      path: packages/google_mobile_ads
+
+  facebook_audience_network: ^1.0.1
+
+  #Localization
+  flutter_localizations:
+    sdk: flutter
+
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+  build_runner: ^2.2.1
+  mobx_codegen: ^2.0.7+3
+  #flutter packages pub run build_runner build --delete-conflicting-outputs
+
+flutter:
+  uses-material-design: true
+  assets:
+  - assets/
+  - assets/flag/
+  - assets/icon/
